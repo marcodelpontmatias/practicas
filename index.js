@@ -1,10 +1,11 @@
 alert("test");
-let nombres = [
+let personas = [
   {nombre: "Matias"},
   {nombre: "Julian"}
 ];
 let body = document.getElementsByTagName("body")[0];
-nombres.forEach(function(nombre){
+personas.forEach(function(persona){
   let h2 = document.createElement("h2");
-  h2.innerHTML = nombre;
+  h2.innerHTML = persona.nombre;
   body.appendChild(h2);
+});
