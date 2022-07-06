@@ -1,0 +1,23 @@
+{
+  "name": "practicas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcodelpontmatias/practicas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcodelpontmatias/practicas/issues"
+  },
+  "homepage": "https://github.com/marcodelpontmatias/practicas#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-serve": "^1.4.0"
+  }
+}
