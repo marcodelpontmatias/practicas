@@ -1,6 +1,22 @@
-h1 {
-  color: blue;
+.primer-titulo {
+  position: relative;
+  color: lightblue;
+  text-align: center;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  text-rendering: optimizeSpeed;
+
 }
-p {
-    color: red;
+
+hr {
+  color: lightblue;
+}
+
+h3 {
+  color: lightblue;
+}
+
+body {
+  background-color: white;
 }
